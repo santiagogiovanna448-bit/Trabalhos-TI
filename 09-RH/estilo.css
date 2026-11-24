@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    height: 1500px;
+    width: 1500px;
+    background-color: rgb(167, 54, 167);
+ 
+ 
+ 
+ 
+ 
+}
+ 
+.box1{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(122, 13, 126);
+ 
+}
+ 
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(228, 26, 36);
+    margin-left: 5px;
+    padding: 5px;
+}
+ 
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(58, 21, 219);
+ 
+   
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,38 @@
+.box1{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(144, 18, 228);
+  border-style: dashed;
+  border-color: rgb(255, 225, 55);
+  border-radius: 20px;
+  border-top-left-radius: 70px;
+  padding: 20px;
+
+
+
+}
+.box2{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(18, 91, 228);
+    border-style: dashed;
+    border-color: rgb(255, 225, 55);
+    border-radius: 20px;
+    border-top-left-radius: 70px;
+    padding: 20px;
+
+
+}
+.box3{
+    height: 350px;
+    width: 350px;
+    background-color: rgb(228, 18, 18);
+    border-style: dashed;
+    border-color: rgb(255, 225, 55);
+    border-radius: 20px;
+    border-top-left-radius: 70px;
+    padding: 20px;
+
+
+
+}
